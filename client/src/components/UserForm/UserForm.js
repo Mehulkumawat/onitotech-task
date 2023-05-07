@@ -52,6 +52,12 @@ function UserForm() {
     const handleCancel = () => {
         reset(); // Reset the form fields
     };
+    //reset fields on escape key
+    const handleKeyDown = (event) => {
+        if (event.key === 'Escape') {
+            reset();
+        }
+      };
 
     const handleNationalityChange = (event) => {
         const selectedNationality = event.target.value;
@@ -145,7 +151,7 @@ function UserForm() {
 
     return (
         <div>
-            <form onSubmit={handleSubmit(onSubmitHandler)}>
+            <form onSubmit={handleSubmit(onSubmitHandler)} onKeyDown={handleKeyDown}>
                 <div className='personal-details'>
                     <div className='row'>
                         <span className='col field'>Personal Details</span>

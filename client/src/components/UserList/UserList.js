@@ -1,5 +1,6 @@
 import React, { useState, useEffect, useRef } from "react";
 import axios from "axios";
+import './UserList.css'
 import $ from 'jquery';
 import 'datatables.net-dt/js/dataTables.dataTables';
 import 'datatables.net-dt/css/jquery.dataTables.css';
@@ -47,7 +48,7 @@ const UserList = () => {
   return (
     <div>
       <table ref={tableRef} id="myTable">
-        <thead>
+        <thead className="heading">
           <tr>
             <th>Name</th>
             <th>Age</th>

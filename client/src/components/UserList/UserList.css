@@ -1,0 +1,12 @@
+.heading{
+    background-color: #93C54B;
+}
+th{
+    border: 2px solid black;
+}
+tbody tr:nth-child(even) {
+    background-color: #EAF5F4 !important;
+  }
+tbody tr:nth-child(odd) {
+    background-color: #E0E0E0 !important;
+  }
