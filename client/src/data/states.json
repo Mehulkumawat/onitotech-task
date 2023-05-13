@@ -1,0 +1,181 @@
+ [
+    {    "states": "Andhra Pradesh",    
+        "cities": [
+            "Visakhapatnam",
+            "Vijayawada",
+            "Guntur",
+            "Tirupati",
+            "Nellore"
+        ]
+    },
+    {
+    "states": "Arunachal Pradesh",
+    "cities": [
+            "Itanagar",
+            "Naharlagun",
+            "Pasighat",
+            "Daporijo",
+            "Ziro"
+        ]
+    },
+    {
+    "states": "Assam",
+    "cities": [
+            "Guwahati",
+            "Silchar",
+            "Dibrugarh",
+            "Jorhat",
+            "Tezpur"
+        ]
+    },
+    {
+    "states": "Bihar",
+    "cities": [
+            "Patna",
+            "Gaya",
+            "Bhagalpur",
+            "Muzaffarpur",
+            "Darbhanga"
+        ]
+    },
+    {
+    "states": "Chhattisgarh",
+    "cities": [
+            "Raipur",
+            "Bhilai",
+            "Bilaspur",
+            "Korba",
+            "Durg"
+        ]
+    },
+    {
+    "states": "Goa",
+    "cities": [
+            "Panaji",
+            "Margao",
+            "Vasco da Gama",
+            "Ponda",
+            "Mapusa"
+        ]
+    },
+    {
+    "states": "Gujarat",
+    "cities": [
+            "Ahmedabad",
+            "Surat",
+            "Vadodara",
+            "Rajkot",
+            "Bhavnagar"
+        ]
+    },
+    {
+    "states": "Haryana",
+    "cities": [
+            "Chandigarh",
+            "Faridabad",
+            "Gurgaon",
+            "Hisar",
+            "Panipat"
+        ]
+    },
+    {
+    "states": "Himachal Pradesh",
+    "cities": [
+            "Shimla",
+            "Solan",
+            "Mandi",
+            "Dharamshala",
+            "Kullu"
+        ]
+    },
+    {
+    "states": "Jharkhand",
+    "cities": [
+            "Ranchi",
+            "Jamshedpur",
+            "Dhanbad",
+            "Bokaro",
+            "Hazaribagh"
+        ]
+    },
+    {
+    "states": "Karnataka",
+    "cities": [
+            "Bengaluru",
+            "Mysore",
+            "Hubli",
+            "Mangalore",
+            "Belgaum"
+        ]
+    },
+    {
+    "states": "Kerala",
+    "cities": [
+            "Thiruvananthapuram",
+            "Kochi",
+            "Kozhikode",
+            "Thrissur",
+            "Kollam"
+        ]
+    },
+    {
+    "states": "Madhya Pradesh",
+    "cities": [
+            "Bhopal",
+            "Indore",
+            "Jabalpur",
+            "Gwalior",
+            "Ujjain"
+        ]
+    },
+    {
+    "states": "Maharashtra",
+    "cities": [
+            "Mumbai",
+            "Pune",
+            "Nagpur",
+            "Nashik",
+            "Aurangabad"
+        ]
+    },
+    {
+    "states": "Manipur",
+    "cities": [
+            "Imphal",
+            "Thoubal",
+            "Bishnupur",
+            "Churachandpur",
+            "Senapati"
+        ]
+    },
+    {
+    "states": "Meghalaya",
+    "cities": [
+            "Shillong",
+            "Tura",
+            "Jowai",
+            "Baghmara",
+            "Williamnagar"
+        ]
+    },
+    {
+    "states": "Mizoram",
+    "cities": [
+            "Aizawl",
+            "Lunglei",
+            "Champhai",
+            "Serchhip",
+            "Mamit"
+        ]
+    },
+    {
+    "states": "Nagaland",
+    "cities": [
+            "Kohima",
+            "Dimapur",
+            "Mokokchung",
+            "Tuensang",
+            "Wokha"
+        ]
+    }
+]

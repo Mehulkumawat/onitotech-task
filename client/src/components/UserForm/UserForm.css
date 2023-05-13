@@ -1,0 +1,64 @@
+span{
+    text-decoration: underline;
+    font-weight: bold;
+}
+label {
+    display: inline-block;
+    padding-right: 25px;
+
+}
+.row{
+    margin: 15px;
+}
+/* .personal-details {
+    display: flex;
+
+} */
+input, select{
+    margin: 0px 5px;
+    background-color: #DCDCDC;
+    /* box-shadow: none !important; */
+    /* border-color: orange; */
+    border: 1px solid #9a9a9a;
+    border-radius: 5px;
+    /* width: 100%; */
+}
+.buttons{
+    padding: 20px 85px;
+}
+button{
+    padding: 3px 15px;
+    letter-spacing: 1.5px;
+    border-radius: 3px;
+}
+
+.cancel{
+    margin-right: 80px;
+    border: 1px solid red;
+    color: red;
+    background-color: #DCDCDC;
+}
+.esc{
+    font-size: 10px;
+    text-decoration: underline;
+}
+.submit{
+    border: 1px solid rgb(23, 120, 24);
+    color: #DCDCDC;
+    background-color: rgb(29, 145, 31);
+}
+
+.error {
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+/* .country{
+    padding: 0px !important;
+    min-width: fit-content;
+} */
+.required-star {
+    color: red;
+    text-decoration: none;
+}
